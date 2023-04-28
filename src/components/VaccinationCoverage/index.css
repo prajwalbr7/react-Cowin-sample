@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container-vCoverage {
+  padding: 20px;
+  width: 100%;
+  background-color: #1c1c2b;
+  margin: 30px;
+}
+.ul-style {
+  padding: 0px;
+}
+.Center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

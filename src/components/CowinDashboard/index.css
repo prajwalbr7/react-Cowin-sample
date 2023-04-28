@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+  background-color: #161625;
+}
+.container-to-img-para {
+  display: flex;
+  align-items: center;
+}
+.img-plus-style {
+  color: #cbd5e1;
+  height: 30px;
+}
+.para-cowin-style {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #2cc6c6;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.para-cowin-style2 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.container-heading-style {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  color: #cbd5e1;
+}
